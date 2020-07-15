@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/day/day.iml" filepath="$PROJECT_DIR$/day/day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01.1_BasicGrammar/day01.1_BasicGrammar.iml" filepath="$PROJECT_DIR$/day01.1_BasicGrammar/day01.1_BasicGrammar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01.2_JavaDataType/day01.2_JavaDataType.iml" filepath="$PROJECT_DIR$/day01.2_JavaDataType/day01.2_JavaDataType.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_JavaCompiler/day01_JavaCompiler.iml" filepath="$PROJECT_DIR$/day01_JavaCompiler/day01_JavaCompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02.1_DataInput/day02.1_DataInput.iml" filepath="$PROJECT_DIR$/day02.1_DataInput/day02.1_DataInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_Operator/day02_Operator.iml" filepath="$PROJECT_DIR$/day02_Operator/day02_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03.1_While/day03.1_While.iml" filepath="$PROJECT_DIR$/day03.1_While/day03.1_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03.2_DoWhile/day03.2_DoWhile.iml" filepath="$PROJECT_DIR$/day03.2_DoWhile/day03.2_DoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03.3_Random/day03.3_Random.iml" filepath="$PROJECT_DIR$/day03.3_Random/day03.3_Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_For/day03_For.iml" filepath="$PROJECT_DIR$/day03_For/day03_For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_Array/day04_Array.iml" filepath="$PROJECT_DIR$/day04_Array/day04_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_Method/day05_Method.iml" filepath="$PROJECT_DIR$/day05_Method/day05_Method.iml" />
     </modules>
   </component>
 </project>

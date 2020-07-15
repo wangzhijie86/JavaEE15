@@ -1,0 +1,8 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(£À‹ÿÿÿÿÿ
+Y
+java:S1226"CIntroduce a new variable instead of reusing the parameter "number".(Ç–ù„
+P
+java:S1854":Remove this useless assignment to local variable "number".(Ç–ù„
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ƒó¥
+M	java:S106"9Replace this use of System.out or System.err by a logger.(©Ì4
